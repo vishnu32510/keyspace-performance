@@ -53,6 +53,10 @@ BATCH_SIZE = 200
 MAX_WORKERS = 5
 ```
 
+### 📊 Result
+
+![Result](https://github.com/vishnu32510/keyspace-performance/blob/main/outputs/M_11_R1.png?raw=true)
+
 ### 🔹 Single Record CRUD Benchmark
 
 | Operation | Type   | Records | Time (ms) | Time (s)   |
