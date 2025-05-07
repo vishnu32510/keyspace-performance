@@ -1,0 +1,14 @@
+boto3
+botocore
+cassandra-driver
+cassandra-sigv4
+click
+dotenv
+geomet
+jmespath
+python-dateutil
+python-dotenv
+s3transfer
+six
+tqdm
+urllib3
